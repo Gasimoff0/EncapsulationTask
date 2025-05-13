@@ -40,8 +40,26 @@
             string input = Console.ReadLine();
             switch (input)
             {
-               
-                    
+                case "1":
+                    for (int i = 0; i < books.Length - 1; i++)
+                    {
+                        for (int j = 0; j < books.Length - 1 - i; j++)
+                        {
+                            if (books[j].Price > books[j + 1].Price)
+                            {
+                                Book temp = books[j];
+                                books[j] = books[j + 1];
+                                books[j + 1] = temp;
+                            }
+                        }
+                    }
+                    Console.WriteLine("Price göre artan sira ile siralanmish kitablar:");
+                    for (int i = 0; i < books.Length; i++)
+                    {
+                        Console.WriteLine(books[i].Detail());
+                    }
+                    break;
+
                 case "2":
                     Console.WriteLine("Butun kitablar");
                     foreach (var book in books)
