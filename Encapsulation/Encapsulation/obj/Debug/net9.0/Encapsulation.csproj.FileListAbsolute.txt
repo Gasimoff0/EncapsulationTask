@@ -1,0 +1,15 @@
+C:\Users\Gasimoff\OneDrive\Masaüstü\Encapsulation\Encapsulation\bin\Debug\net9.0\Encapsulation.exe
+C:\Users\Gasimoff\OneDrive\Masaüstü\Encapsulation\Encapsulation\bin\Debug\net9.0\Encapsulation.deps.json
+C:\Users\Gasimoff\OneDrive\Masaüstü\Encapsulation\Encapsulation\bin\Debug\net9.0\Encapsulation.runtimeconfig.json
+C:\Users\Gasimoff\OneDrive\Masaüstü\Encapsulation\Encapsulation\bin\Debug\net9.0\Encapsulation.dll
+C:\Users\Gasimoff\OneDrive\Masaüstü\Encapsulation\Encapsulation\bin\Debug\net9.0\Encapsulation.pdb
+C:\Users\Gasimoff\OneDrive\Masaüstü\Encapsulation\Encapsulation\obj\Debug\net9.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gasimoff\OneDrive\Masaüstü\Encapsulation\Encapsulation\obj\Debug\net9.0\Encapsulation.AssemblyInfoInputs.cache
+C:\Users\Gasimoff\OneDrive\Masaüstü\Encapsulation\Encapsulation\obj\Debug\net9.0\Encapsulation.AssemblyInfo.cs
+C:\Users\Gasimoff\OneDrive\Masaüstü\Encapsulation\Encapsulation\obj\Debug\net9.0\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Gasimoff\OneDrive\Masaüstü\Encapsulation\Encapsulation\obj\Debug\net9.0\Encapsulation.sourcelink.json
+C:\Users\Gasimoff\OneDrive\Masaüstü\Encapsulation\Encapsulation\obj\Debug\net9.0\Encapsulation.dll
+C:\Users\Gasimoff\OneDrive\Masaüstü\Encapsulation\Encapsulation\obj\Debug\net9.0\refint\Encapsulation.dll
+C:\Users\Gasimoff\OneDrive\Masaüstü\Encapsulation\Encapsulation\obj\Debug\net9.0\Encapsulation.pdb
+C:\Users\Gasimoff\OneDrive\Masaüstü\Encapsulation\Encapsulation\obj\Debug\net9.0\Encapsulation.genruntimeconfig.cache
+C:\Users\Gasimoff\OneDrive\Masaüstü\Encapsulation\Encapsulation\obj\Debug\net9.0\ref\Encapsulation.dll
